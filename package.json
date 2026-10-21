@@ -1,6 +1,6 @@
 {
   "name": "dsh-plugin-tetris",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Play Tetris in the DSH Web GUI while the agent is working",
   "keywords": [
     "dsh",
