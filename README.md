@@ -6,7 +6,7 @@
 
 [中文](README.md) | [English](README.en.md)
 
-[![dsh-plugin topic](https://img.shields.io/badge/topic-dsh--plugin-3b82f6)](https://github.com/topics/dsh-plugin)
+[![npm](https://img.shields.io/npm/v/dsh-plugin-tetris.svg)](https://www.npmjs.com/package/dsh-plugin-tetris) [![dsh-plugin topic](https://img.shields.io/badge/topic-dsh--plugin-3b82f6)](https://github.com/topics/dsh-plugin)
 
 | 模式菜单 | 对局 |
 |:---:|:---:|

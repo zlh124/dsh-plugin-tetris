@@ -11,6 +11,14 @@
     "overlay"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlh124/dsh-plugin-tetris.git"
+  },
+  "homepage": "https://github.com/zlh124/dsh-plugin-tetris#readme",
+  "bugs": {
+    "url": "https://github.com/zlh124/dsh-plugin-tetris/issues"
+  },
   "type": "module",
   "main": "lib/index.js",
   "exports": {
