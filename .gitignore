@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# build/test scratch
+.test-build*/
+.verify/
+
+# local npm/pnpm caches
+.npm-cache*/
+*.tgz
+
+# editors / OS
+.DS_Store
+
+# NOTE: lib/ is committed on purpose. Git-based installs
+# (`dsh plugin add git+https://...`) have no prepare script, so the built
+# artifacts must be in the repository.

@@ -1,0 +1,12 @@
+# Bundle patch layer for dsh-plugin-tetris.
+#
+# Applied when this package is listed in the profile's `dsh.profile.bundles`
+# (`dsh plugin --profile web add link:<path>` appends it automatically), or when
+# the same `insert` row is added to the profile's own cordis.patch.yml.
+#
+# A `dsh.client` row is what the client-modules node half scans into the
+# browser roster, so this single row is all it takes to get the plugin into
+# window.__DSH_BOOT__ and served from /plugins/dsh-plugin-tetris/client.js.
+- insert:
+    - id: tetris
+      name: 'dsh-plugin-tetris'
